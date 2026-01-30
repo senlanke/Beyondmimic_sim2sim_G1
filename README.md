@@ -19,8 +19,8 @@
   - 锚点索引固定为 MOTION_BODY_INDEX=9（与 npz 生成一致），修改为自己机器人时需要修改。
 
 # 主要参考
-https://github.com/oYYmYYo/Beyondmimic_Deploy_G1.git
-https://github.com/HighTorque-Robotics/Mini-Pi-Plus_BeyondMimic.git
+1. https://github.com/oYYmYYo/Beyondmimic_Deploy_G1.git
+2. https://github.com/HighTorque-Robotics/Mini-Pi-Plus_BeyondMimic.git
 
 # Acknowledgement：
 [1] Beyondmimic训练源码：https://github.com/HybridRobotics/whole_body_tracking
